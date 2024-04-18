@@ -1,8 +1,6 @@
 === Generic ===
 
-Contributors: bhadaway
-Donate link: https://calmestghost.com/donate
-Theme link: https://generic.tools/
+Contributors: Arman khan
 Tags: accessibility-ready, one-column, two-columns, right-sidebar, custom-logo, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready, blog, e-commerce, portfolio
 Requires at least: 5.2
 Tested up to: 5.9
